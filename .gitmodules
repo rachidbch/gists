@@ -1,0 +1,3 @@
+[submodule "init.docker.sh"]
+	path = init.docker.sh
+	url = https://gist.github.com/rachidbch/2c947cf92fdd15f6a2b4eddbf6baeb1a
