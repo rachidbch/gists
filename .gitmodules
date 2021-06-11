@@ -4,3 +4,6 @@
 [submodule "docker"]
 	path = docker
 	url = https://gist.github.com/rachidbch/9ef6187b57b3e4c415f571d0e2991ae0
+[submodule "shell"]
+	path = shell
+	url = https://gist.github.com/rachidbch/35ccb89fceef4d4f58dfa8251e86283d
