@@ -7,3 +7,6 @@
 [submodule "shell"]
 	path = shell
 	url = https://gist.github.com/rachidbch/35ccb89fceef4d4f58dfa8251e86283d
+[submodule "bootstrap"]
+	path = bootstrap
+	url = https://gist.github.com/rachidbch/2e10095b0042e784c557a15e2c804807
