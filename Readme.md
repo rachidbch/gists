@@ -18,5 +18,8 @@ Gists to publish must have a file structure along [docker example](https://gist.
 2) In `/Portainer/Gists/html`, update the repo
    $ ./update.sh 
 
+   =NOTE= If submodules start wrongly appearing as modified and block a `git pull`, do
+   $ git submodule update --init  --recursive
+
 ## Use the script
    $ curl -sL scripts.domain.tld/path/to/script | bash -
