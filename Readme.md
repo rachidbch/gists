@@ -16,9 +16,7 @@ Gists to publish must have a file structure along [docker example](https://gist.
 ## Update the scripts website 
 1) Enter `cloud.lxd` VPS 
 2) In `/Portainer/Gists/html`, update the repo
-   $ git pull
-3) In `/Portainer/Gists/html`, update the repo submodules
-   $ git submodule update --recursive --remote
+   $ ./update.sh 
 
 ## Use the script
    $ curl -sL scripts.domain.tld/path/to/script | bash -
